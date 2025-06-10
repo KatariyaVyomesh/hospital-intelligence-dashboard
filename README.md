@@ -61,7 +61,7 @@ Built with **Power BI** (front-end), **SQL** (data mart), and **DAX** (business 
 ---
 
 ## Page-by-Page Feature Guide
-### 🏠 Home Page
+### Home Page
 
 | **Section**              | **Description**                                                                                          |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
