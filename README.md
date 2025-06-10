@@ -11,13 +11,13 @@ Built with **Power BI** (front-end), **SQL** (data mart), and **DAX** (business 
 3. [Screenshots](#screenshots)  
 4. [Page-by-Page Feature Guide](#page-by-page-feature-guide)  
    - [Home Page](#home-page)  
-   - [Overview](#overview-page)  
-   - [Patient](#patient-page)  
-   - [Doctor](#doctor-page)  
-   - [Surgery](#surgery-page)  
-   - [Finance](#finance-page)  
-5. [DAX Measures](#dax-measures)  
-6. [Key Metrics Tracked](#key-metrics-tracked)  
+   - [Overview Page](#overview-page)  
+   - [Patient Page](#patient-page)  
+   - [Doctor Page](#doctor-page)  
+   - [Surgery Page](#surgery-page)  
+   - [Finance Page](#finance-page)  
+5. [Key DAX Measures – Hospital Power BI Dashboard](#dax-measures)  
+6. [Key Metrics Tracked Across Pages](#key-metrics-tracked)  
 7. [Setup & Deployment](#setup--deployment)  
 8. [Author](#author)  
 9. [License](#license)  
@@ -61,6 +61,7 @@ Built with **Power BI** (front-end), **SQL** (data mart), and **DAX** (business 
 ---
 
 ## Page-by-Page Feature Guide
+🏠
 ### Home Page
 
 | **Section**              | **Description**                                                                                          |
@@ -73,7 +74,8 @@ Built with **Power BI** (front-end), **SQL** (data mart), and **DAX** (business 
 
 ---
 
-### 📊 Overview Page
+📊
+### Overview Page
 
 | **Feature / Control**             | **Description**                                                                                                                                                           |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -91,7 +93,9 @@ Built with **Power BI** (front-end), **SQL** (data mart), and **DAX** (business 
 
 ---
 
-### 🧍 Patient Page
+
+🧍
+### Patient Page
 
 A real-time, drill-through workspace that surfaces every key insight for an individual patient—clinical, financial, and experiential.
 
@@ -113,7 +117,8 @@ A real-time, drill-through workspace that surfaces every key insight for an indi
 
 ---
 
-### 🩺 Doctor Page
+🩺
+###  Doctor Page
 
 A real-time workspace that unifies schedule, performance, and financial metrics for each doctor.
 | **Section / Visual**                           | **Purpose & Behaviour**      |
@@ -135,7 +140,8 @@ A real-time workspace that unifies schedule, performance, and financial metrics 
 
 ---
 
-### 🏥 Surgery Page
+🏥
+###  Surgery Page
 
 An interactive view that consolidates surgical appointments, resource utilisation, and financial details—dynamically filtered to any selected surgeon.
 
@@ -155,7 +161,8 @@ An interactive view that consolidates surgical appointments, resource utilisatio
 
 ---
 
-### 💰 Finance Page
+💰
+###  Finance Page
 
 
 The **Finance Page** provides an interactive and real-time overview of the hospital's financial operations, including billing, stock, patient charges, and revenue trends.
@@ -183,7 +190,9 @@ This page acts as the financial backbone of the dashboard, allowing admins and f
 
 
 ---
-## 📊 Key DAX Measures – Hospital Power BI Dashboard
+
+📊
+##  Key DAX Measures – Hospital Power BI Dashboard
 
 This section outlines all important DAX measures used across pages of the hospital management dashboard. These help drive KPIs, track performance, and add dynamic behavior to visuals.
 
@@ -257,8 +266,8 @@ This section outlines all important DAX measures used across pages of the hospit
 
 ---
 
-  
-## 📌 Key Metrics Tracked Across Pages
+📌
+##  Key Metrics Tracked Across Pages
 
 This dashboard tracks a comprehensive set of live and historical metrics to provide real-time operational visibility into hospital performance:
 
