@@ -192,7 +192,7 @@ This page acts as the financial backbone of the dashboard, allowing admins and f
 ---
 
 📊
-##  Key DAX Measures – Hospital Power BI Dashboard
+## Key DAX Measures – Hospital Power BI Dashboard
 
 This section outlines all important DAX measures used across pages of the hospital management dashboard. These help drive KPIs, track performance, and add dynamic behavior to visuals.
 
@@ -267,7 +267,7 @@ This section outlines all important DAX measures used across pages of the hospit
 ---
 
 📌
-##  Key Metrics Tracked Across Pages
+## Key Metrics Tracked Across Pages
 
 This dashboard tracks a comprehensive set of live and historical metrics to provide real-time operational visibility into hospital performance:
 
