@@ -10,7 +10,7 @@ Built with **Power BI** (front-end), **SQL** (data mart), and **DAX** (business 
 2. [Technology Stack](#technology-stack)  
 3. [Screenshots](#screenshots)  
 4. [Page-by-Page Feature Guide](#page-by-page-feature-guide)  
-   - [Home](#home-page)  
+   - [🏠 Home Page](#home-page)  
    - [Overview](#overview-page)  
    - [Patient](#patient-page)  
    - [Doctor](#doctor-page)  
